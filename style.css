@@ -1,14 +1,14 @@
 header {
-    background-colour: aqua;
+    background-color: aqua;
 }
 header h1 {
-    colour: green
+    color: green;
     font-size: 150px;
 }
 
 @media screen and (max-width: 992px) {
     header {
-        background-colour: red;
+        background-color: red;
     }
     header h1 {
         font-size: 100px;
@@ -17,7 +17,7 @@ header h1 {
 
 @media screen and (max-width: 600px) {
     header {
-        background-colour: rgb; (207, 248, 59);
+        background-color:darkorange;
     }
     header h1 {
         font-size: 100px;
